@@ -1,0 +1,8 @@
+
+# General python ignores
+/venv
+.idea/
+__pycache__/
+
+# macOS specific ignores
+.DS_Store
